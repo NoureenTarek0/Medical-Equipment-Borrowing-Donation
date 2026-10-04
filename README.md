@@ -5,7 +5,7 @@
 
 ## Team Members
 - **Noureen Tarek Gaber**
-- **Rahma Hassanein Elmorsy**
+- **Rahma Hassanin Elmorsy**
 - **Mamdouh Mohamed Aboelmagd**
 - **Omar Ahmed Awad**
 - **Aya Reda Ahmed**
